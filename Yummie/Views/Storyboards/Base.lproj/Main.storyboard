@@ -365,16 +365,16 @@
                                 <rect key="frame" x="16" y="562" width="382" height="284"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="o16-aa-fSd">
-                                        <rect key="frame" x="0.0" y="0.0" width="382" height="45"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="382" height="23"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="250" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rff-ya-F6W">
-                                                <rect key="frame" x="0.0" y="0.0" width="191" height="45"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="191" height="23"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="jH8-7R-IWP">
-                                                <rect key="frame" x="191" y="0.0" width="191" height="45"/>
+                                                <rect key="frame" x="191" y="0.0" width="191" height="23"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="cad-zE-GE4"/>
                                                 </constraints>
@@ -385,19 +385,19 @@
                                         </subviews>
                                     </stackView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="750" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="6" translatesAutoresizingMaskIntoConstraints="NO" id="Lxq-Kf-691">
-                                        <rect key="frame" x="0.0" y="53" width="382" height="45.5"/>
+                                        <rect key="frame" x="0.0" y="31" width="382" height="161.5"/>
                                         <string key="text">ytyhnt tntnrtn nrnyun nyumym myum ymtymymy gbyrthbyt myumyikimitytyhnt tntnrtn nrnyun nyumym myum ymtymymy gbyrthbyt myumyikimitytyhnt tntnrtn nrnyun nyumym myum ymtymymy gbyrthbyt myumyikimitytyhnt tntnrtn nrnyun nyumym myum ymtymymy gbyrthbyt myumyikimit</string>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" systemColor="systemGrayColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Your name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="sTn-Z2-sZt">
-                                        <rect key="frame" x="0.0" y="106.5" width="382" height="74.5"/>
+                                        <rect key="frame" x="0.0" y="200.5" width="382" height="38.5"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="250" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oPp-WP-VlI">
-                                        <rect key="frame" x="0.0" y="189" width="382" height="95"/>
+                                        <rect key="frame" x="0.0" y="247" width="382" height="37"/>
                                         <color key="backgroundColor" red="0.57647061349999995" green="0.094117648900000003" blue="0.2470588088" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <state key="normal" title="Place Order">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
